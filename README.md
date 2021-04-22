@@ -6,6 +6,7 @@ https://github.com/marcosmaiadev/react-lista-tarefas
 http://123456456123.surge.sh/  !!!ESTÁ EM MANUTENÇÃO
 
 ## Imagem: 
+![lISTA-DE-tAREFAS](https://user-images.githubusercontent.com/30267119/115773102-4a27ce80-a386-11eb-88a9-329eda61e10b.PNG)
 
 
 ## Funcionalidades: 
